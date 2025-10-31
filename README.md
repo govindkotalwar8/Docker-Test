@@ -169,3 +169,5 @@ apt update && apt install -y iputils-ping
 
 thats all done we can do test connectivity  
 docker exec -it nginx2 ping nginx1  
+
+![OUTPUT](OUTPUT.png) 
